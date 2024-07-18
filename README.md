@@ -7,3 +7,6 @@ Responsive and intuitive user interface
 MongoDB for data storage
 Express.js for server-side logic
 React.js for the frontend
+
+to run backed server we need to go backend directory and rum npm install
+to run frontend we need to go frontend directory and rum npm install
